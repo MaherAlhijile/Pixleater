@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-platform-5.14.0.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-jpms-5.14.0.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\junit.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\maven-ant-tasks-2.1.3.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\animal-sniffer-ant-tasks-1.17.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\ant.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\asm-8.0.1.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\bsh.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\checkstyle-8.17-all.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\clover.jar",
+        "c:\\Users\\Maher\\Downloads\\jna-master\\jna-master\\lib\\hamcrest-core-1.3.jar",
+        "c:\\Users\\Maher\\Downloads\\jnativehook-2.2.2-javadoc.jar",
+        "c:\\Users\\Maher\\Downloads\\jnativehook-2.2.2.jar"
+    ],
+    "java.project.explorer.showNonJavaResources": false
+}
